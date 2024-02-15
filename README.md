@@ -56,22 +56,23 @@ Text formatting in HTML refers to the way text is displayed on a web page.
   <li>Third item</li>
 </ol>
  Definition list- are used to present terms and their corresponding terms. They consist of a list of terms enclosed in ‘<dt>’  (definition term) elements and their associated definitions enclosed in`<dd>` (definition description) elements. Here's an example of a definition list:
- `<dl>`
-  `<dt>`HTML`</dt>`
+ <dl>
+  <dt>HTML</dt>
   <dd>HyperText Markup Language, used for structuring content on the web.</dd>
   
   <dt>CSS</dt>
   <dd>Cascading Style Sheets, used for styling web documents.</dd>
   
-  <dt>JavaScript`</dt>`
-  <dd>A programming language used for adding interactivity to web pages.`</dd>`
-`</dl>`
+  <dt>JavaScript</dt>
+  <dd>A programming language used for adding interactivity to web pages.</dd>
+</dl>
 
 HTML Quotes
 They are used to insert quoted text in a web page,for example:
 HTML q tag is used to put small quotation.
-`<p> Life is good.</p> ` 
-`<p> Dr. Mongale once said : <q>An apple a day keeps the doctor away.</q></p>`
+`<p> Great quote on love and life.</p>`  
+`<p> Dr. Seuss once said : <q>Reality is finally better than your dreams.</q></p>`
+
  
 
  
