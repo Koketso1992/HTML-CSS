@@ -44,13 +44,13 @@ Text formatting in HTML refers to the way text is displayed on a web page.
  All lists must contain one or more lists elements.
  There are three types of lists namely:
  Unordered list- present items that do not have a particular sequence or order, they are displayed with bullet points and this is how an unordered list is created:
-` <ul>
+ "<ul>
   <li>Koketso</li>
   <li>Motsikwe</li>
   <li>Moyakhe</li>
-</ul>`
+</ul>"
  Orderedlist- Are used when you want to present items in a specific sequence or order. They are typically displayed by numbers or letters.
- Definition list. This is an example
+ Definition list. This is an example of an ordered list
 
  
 
