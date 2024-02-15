@@ -26,7 +26,7 @@ You can add JavaScript code in an HTML document by employing the dedicated HTML 
 2.HTML Text Formating
 Text formatting in HTML refers to the way text is displayed on a web page.
  HTML offers a range of tags that can be used to format text including:
- Bold text: <b> or <strong>. We can make the text bold using the <b> tag. The tag uses both opening and closing tags. The text that needs to be made bold must be within <b> and </b> tag
+ Bold text: `<b>` or `<strong>`. We can make the text bold using the <b> tag. The tag uses both opening and closing tags. The text that needs to be made bold must be within <b> and </b> tag
  Italicised text: <i> or <em>. The <i> tag is used to italicise the text. It opens with <i> and ends with </i> tag and <em> tag is used to emphasize the text, with added semantic importance. It opens with <em> and ends with </em> tag. 
  Superscript and subscript text: <sup> or <sub>. The <sup> element is used to superscript a text and the <sub> element is used to subscript a text. They both have an opening and a closing tag.\
 
