@@ -44,13 +44,35 @@ Text formatting in HTML refers to the way text is displayed on a web page.
  All lists must contain one or more lists elements.
  There are three types of lists namely:
  Unordered list- present items that do not have a particular sequence or order, they are displayed with bullet points and this is how an unordered list is created:
- <ul
+ <ul>
   <li>Koketso</li>
   <li>Motsikwe</li>
   <li>Moyakhe</li>
-</ul
- Orderedlist- Are used when you want to present items in a specific sequence or order. They are typically displayed by numbers or letters.
- Definition list. This is an example of an ordered list
+</ul>
+ Orderedlist- Are used when you want to present items in a specific sequence or order. They are typically displayed by numbers or letters. this is an example of an ordered list:
+ <ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
+ Definition list- are used to present terms and their corresponding terms. They consist of a list of terms enclosed in ‘<dt>’  (definition term) elements and their associated definitions enclosed in`<dd>` (definition description) elements. Here's an example of a definition list:
+ `<dl>`
+  `<dt>`HTML`</dt>`
+  <dd>HyperText Markup Language, used for structuring content on the web.</dd>
+  
+  <dt>CSS</dt>
+  <dd>Cascading Style Sheets, used for styling web documents.</dd>
+  
+  <dt>JavaScript`</dt>`
+  <dd>A programming language used for adding interactivity to web pages.`</dd>`
+`</dl>`
+
+HTML Quotes
+They are used to insert quoted text in a web page,for example:
+HTML q tag is used to put small quotation.
+`<p> Life is good.</p> ` 
+`<p> Dr. Mongale once said : <q>An apple a day keeps the doctor away.</q></p>`
+ 
 
  
 
