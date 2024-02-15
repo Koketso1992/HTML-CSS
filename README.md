@@ -10,6 +10,7 @@ A markup language is used to define the text document within the tag which defin
 HTML can be combined with CSS and JavaScript.
 
 CSS
+
 Cascading Style sheet is used to format the style of the webpage.
 You can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out.
 There are three ways to add CSS to HTML files:
@@ -18,12 +19,14 @@ Internal linking- an internal CSS is used to define a style for a single HTML pa
 Exarernal linking- an external style sheet is used to define the style for many HTML pages.
 
 JavaScript
+
 JavaScript is a language used in Web development.
 JavaScript is used to make interactive sites.
 When working with files for the web, JavaScript needs to be loaded and run alongside HTML markup. 
 You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code.
 
 2.HTML Text Formating
+
 Text formatting in HTML refers to the way text is displayed on a web page.
  HTML offers a range of tags that can be used to format text including:
  Bold text: `<b>` or `<strong>`. We can make the text bold using the `<b>` tag. The tag uses both opening and closing tags. The text that needs to be made bold must be within `<b>` and `</b>` tag
@@ -72,13 +75,14 @@ They are used to insert quoted text in a web page,for example:
 HTML q tag is used to put small quotation.
 `<p> Great quote on love and life.</p>`  
 `<p> Dr. Seuss once said : <q>Reality is finally better than your dreams.</q></p>`
+HTML blockquote tag is used to define a large quoted section.
 
- 
+HTML TGime and Date inputs
+The HTML `<input type="datetime">` is a control for entering a date and time (hour, minute, second, and fraction of a second) based on the UTC time zone.
 
- 
-
-
- 
+HTML Code, pre and br
+You can add a new line to an HTML page using the `<br>` or `<pre>` tags. The <br> tag adds a break in the page. The `<pre>` tag formats text exactly as the text appears in your code. If there are any new lines within the `<pre>` tag, those will be reflected on the final page.
 
 3.HTML capabilities
+
 4.HTML navigation and linking
