@@ -1,4 +1,5 @@
 # HTML-CSS
+Week 1
 
 Learning Unit 1-4
 
@@ -108,3 +109,9 @@ You can create links that navigate to different sections within the same page by
 
 Linking to external pages:
 Links in HTML are created using the <a> (anchor) element. When linking to external pages, you specify the URL of the external page in the href attribute of the anchor element. Clicking on such links takes the user to the specified external page.
+
+Week 3
+
+Learning Unit 5-8
+
+5.HTML Working with Graphics and Images
